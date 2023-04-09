@@ -1,0 +1,23 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+body{
+    margin-top : 50px;
+    text-align : center;
+}
+p{
+    color : black;
+    font-weight : bold;
+    font-size : large;
+}
+label{
+    font-weight : bold;
+}
+input{
+    text-align : center;
+}
+.secret{
+    font-size :xx-large;
+    color : red;
+}
